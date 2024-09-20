@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <h1>HTML FORMS</h1>
+    
+    <form action="index7.1.html" method="get">
+
+        <label for="Date">Date: </label>
+        <input type="date" id="Date" name="Date" required>
+
+        <br><br>
+
+        <label for="Username">Username: </label>
+        <input type="text" id="Username" placeholder="xyz" name="Username: " required>
+
+        <br><br>
+
+        <label for="Password">Password: </label>
+        <input type="password" id="Password" placeholder="*****" name="Password: " required>
+
+        <br><br>
+
+        <label for="Email">Email: </label>
+        <input type="email" id="Email" placeholder="xyz@gmail.com" name="Email: " required>
+
+        <br><br>
+
+        <label for="Phone Number">Phone Number: </label>
+        <input type="tel" id="Phone Number" placeholder="03---------" name="Phone Number: ">
+
+        <br>
+
+        <p>Select your gender: </p>
+
+        <label for="Male">Male</label>
+        <input type="radio" name="Gender" id="Male">
+
+        <br>
+
+        <label for="Female">Female</label>
+        <input type="radio" name="Gender" id="Female">
+
+        <br>
+
+        <label for="Other">Other</label>
+        <input type="radio" name="Gender" id="Other">
+
+        <br><br>
+
+        <label for="Age Group">Select your age group: </label> 
+        <select name="age-group" id="Age Group">
+            <option value="18-30">18-30</option>
+            <option value="30-50">30-50</option>
+            <option value="50-70">50-70</option>
+            <option value="70+">70+</option>
+        </select>
+
+        <br><br>
+
+        <label for="Comments">Anything about you: </label>
+
+        <br>
+
+        <textarea id="Comments" name="Comments" rows="10" cols="30" placeholder="Type here..."></textarea>
+
+        <br><br>
+
+        <label for="Color">Select your fav color: </label>
+        <input type="color" id="Color" name="Color">
+
+        <br><br>
+
+        <label for="Resume">Enter your resume: </label>
+        <input type="file" id="Resume" name="Resume" required>
+
+        <br><br>
+
+        <label for="Submit">Press submit to enter your data </label>
+        <input type="submit" id="Submit">
+        
+    </form>
+</body>
+</html>

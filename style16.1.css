@@ -1,0 +1,29 @@
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    margin: 20px 240px;
+}
+
+header h1{
+    background-color: lightgray;
+    text-align: center;
+}
+
+main article.a1{
+    border-width: 4px;
+    border-style: solid;
+    border-color: gray;
+
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+main article.a2{
+    border-width: 4px;
+    border-style: solid;
+    border-color: gray;
+
+    padding: 10px;
+}

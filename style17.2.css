@@ -1,0 +1,29 @@
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    margin: 0px 40px;
+}
+
+li{
+    border-bottom: 2px solid black;
+    display: inline-block;
+    margin: 10px 20px;
+    text-transform: uppercase;
+}
+
+ul{
+    text-align: center;
+    background-color: lightgray;
+}
+
+header h3, section h3, article h3{
+    border-bottom: 2px solid black;
+    margin-top: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

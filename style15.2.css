@@ -1,0 +1,31 @@
+a[href = "https://horizon.ucp.edu.pk/web/login"]{
+    color: red;
+}
+
+a[href *= "youtube"]{
+    color: green;
+}
+
+a[href ^= "h"]{
+    background-color: aquamarine;
+}
+
+a[href $= "k"]{
+    color: blueviolet;
+}
+
+input[type="text"]{
+    color: green;
+}
+
+input[type="password"]{
+    background-color: aqua;
+}
+
+input[type="email"]{
+    color: red;
+}
+
+input[type="submit"]{
+    color: red;
+}

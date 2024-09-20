@@ -1,0 +1,17 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.a1{
+    background-color: aliceblue;
+}
+
+.a2{
+    color: green;
+}
+
+.a3{
+    background-color: aqua;
+}
