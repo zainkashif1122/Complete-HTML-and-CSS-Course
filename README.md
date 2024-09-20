@@ -14,6 +14,8 @@ In this repository, you will find solutions to problems and exercises that help 
 2. Open the files in your preferred code editor (Visual Studio Code, Sublime Text).
 3. Explore the HTML structure and corresponding CSS styles. Modify the code to gain hands-on experience with layouts, colors, and other design elements.
 
+> **Note:** Each `index` file is connected to its corresponding `style` file. For example, `index1.html` is linked with `style1.1.css`, and this pattern follows for all other `index` files. The number of the `index` file matches the number of its associated CSS file and other attachments. If you want to access the entire folder, you can download the [zip file](HTML&CSS) from the repository.
+
 ## 🛠 Technologies Used
 
 - **Language**: HTML, CSS
