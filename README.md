@@ -34,7 +34,7 @@ In this repository, you will find solutions to problems and exercises that help 
 
 ## 📬 Feedback and Support
 
-If you have any questions or suggestions, feel free to open an issue or contact me at **`zainkashif1122@gmail.com`**.
+If you have any questions or suggestions, feel free to open an issue or contact me at **zainkashif1122@gmail.com**.
 
 ## 📅 Stay Tuned
 
